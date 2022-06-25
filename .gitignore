@@ -6,10 +6,4 @@ node_modules
 .output
 .env
 dist
-/.idea/codeStyles/codeStyleConfig.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/codeStyles/Project.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/renegade-platinum-wiki.iml
-/.idea/vcs.xml
+.idea
